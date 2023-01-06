@@ -81,7 +81,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone 
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd react-css-timer
+$ cd crud_reactJs_aulas
 
 # Instale as dependências
 $ npm i
